@@ -1,0 +1,11 @@
+[package]
+name = "dlhook"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "An rust proc-macro crate makes write LD_PRELOAD hooks easy."
+repository = "https://github.com/chlorodose/dlhook"
+homepage = "https://github.com/chlorodose/dlhook"
+documentation = "https://docs.rs/dlhook"
+
+[dependencies]
