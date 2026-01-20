@@ -10,4 +10,4 @@ documentation = "https://docs.rs/dlhook"
 
 [dependencies]
 libc = { version = "0.2.180", default-features = false }
-dlhook_macros = {path = "./dlhook_macros"}
+dlhook_macros = "0"

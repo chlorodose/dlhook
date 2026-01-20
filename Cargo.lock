@@ -13,6 +13,8 @@ dependencies = [
 [[package]]
 name = "dlhook_macros"
 version = "0.1.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "9bedf96aed941fd372aa6256b41019612a686772d72309164c3202db61b8f158"
 dependencies = [
  "quote",
  "syn",
